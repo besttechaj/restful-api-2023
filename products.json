@@ -1,0 +1,38 @@
+[
+  {
+    "name": "iphone",
+    "price": 50000,
+    "company": "apple",
+    "featured": true
+  },
+  {
+    "name": "samsung note 7s",
+    "price": 13000,
+    "company": "samsung",
+    "featured": false
+  },
+  {
+    "name": "redmi note 7s",
+    "price": 10000,
+    "company": "mi",
+    "featured": true
+  },
+  {
+    "name": "nokia 555",
+    "price": 2000,
+    "company": "nokia",
+    "featured": false
+  },
+  {
+    "name": "oppo note 7s pro",
+    "price": 15000,
+    "company": "oppo",
+    "featured": false
+  },
+  {
+    "name": "dell pro",
+    "price": 70000,
+    "company": "dell",
+    "featured": false
+  }
+]
